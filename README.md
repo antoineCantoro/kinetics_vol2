@@ -1,2 +1,2 @@
 # kinetics_vol2
-Here is some experimentations I made based o,n kinetics typographic animations  I made using javascript and gsap
+Here is some experimentations I made based on kinetics typography using javascript
