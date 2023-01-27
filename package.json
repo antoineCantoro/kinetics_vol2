@@ -1,0 +1,22 @@
+{
+  "name": "kinetics_vol2",
+  "version": "0.0.1",
+  "repository": "git@github.com:antoineCantoro/kinetics_vol2.git",
+  "author": "Antoine <antoine.cantoro@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^4.0.0"
+  },
+  "dependencies": {
+    "gsap": "^3.11.4",
+    "ogl": "^0.0.103",
+    "three": "^0.149.0"
+  }
+}
